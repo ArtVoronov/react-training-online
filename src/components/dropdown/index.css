@@ -1,0 +1,24 @@
+.dropdown {
+    padding: 0.2rem;
+}
+
+.toggle {
+    border-radius: 0;
+    border: solid black 1px;
+    background-color: chocolate;
+    display: inline-flex;
+}
+
+.dropdown-list {
+    position: relative;
+    top:100%;
+    left: 0;
+    list-style: none;
+    border-radius: 6px;
+    margin: 0;
+    display: none;
+}
+
+.opened {
+display: block;
+}

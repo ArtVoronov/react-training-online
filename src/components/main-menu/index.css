@@ -1,0 +1,13 @@
+.list {
+    list-style: none;
+    padding:  1rem;
+    margin-bottom: 1.5rem;
+}
+
+.list-item {
+    margin-bottom: .5rem;
+}
+
+.list-item--isActive {
+    background-color:red
+}

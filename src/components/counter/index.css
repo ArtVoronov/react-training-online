@@ -1,0 +1,7 @@
+.counter:not(.red) {
+    color:green
+}
+
+.counter.red{
+    color:red
+}
